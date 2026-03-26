@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+## 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LeoLaaksonen-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/leo-laaksonen-9b8b2a374)
 <!--
 **llaakson/llaakson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
