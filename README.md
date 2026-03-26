@@ -1,8 +1,18 @@
-## Hi there 👋
+# Hey, I'm Leo Laaksonen
 
-## 🌐 Connect with me
+I am Hive Helsinki alumni (42 network curriculum). I am most proficient in <b>C</b> and <b>C++</b>, but I also enjoy trying different languages and finding new challenges where I can keep learning.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-LeoLaaksonen-blue?logo=linkedin&style=for-the-badge)](www.linkedin.com/in/leo-laaksonen-9b8b2a374)
+### Currently working oning
+
+ I am currently working on my own rogue like game and learning assembly on the side.
+
+### Stack
+
+
+
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-LeoLaaksonen-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/leo-laaksonen-9b8b2a374)
 <!--
 **llaakson/llaakson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
